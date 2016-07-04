@@ -1,0 +1,3 @@
+#!/bin/csh
+
+gcc -g -o sigeff sigeff.c -lm
