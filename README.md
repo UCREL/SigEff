@@ -17,7 +17,7 @@ To run the C version:
 
 ./sigeff -X semtag_summary.txt < spreadsheet > spreadsheet.sgf
 
-Where X indicates the effect size measures to show from the list below:
+Where X indicates the effect size measures to show from this list:
 1 = %DIFF
 2 = Bayes
 3 = ELL
