@@ -26,5 +26,3 @@ Where X indicates the effect size measures to show from this list:
 6 = OddRatio
 0 = All six
 
-The C code has been temporarily removed due to an IP dispute. 
-If you like a copy for academic purposes, please email p.rayson@lancaster.ac.uk
